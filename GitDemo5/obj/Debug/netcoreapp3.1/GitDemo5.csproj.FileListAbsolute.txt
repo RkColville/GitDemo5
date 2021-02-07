@@ -1,0 +1,13 @@
+C:\Users\Robert Colville\Desktop\Repos\GitDemo5\GitDemo5\bin\Debug\netcoreapp3.1\GitDemo5.exe
+C:\Users\Robert Colville\Desktop\Repos\GitDemo5\GitDemo5\bin\Debug\netcoreapp3.1\GitDemo5.deps.json
+C:\Users\Robert Colville\Desktop\Repos\GitDemo5\GitDemo5\bin\Debug\netcoreapp3.1\GitDemo5.runtimeconfig.json
+C:\Users\Robert Colville\Desktop\Repos\GitDemo5\GitDemo5\bin\Debug\netcoreapp3.1\GitDemo5.runtimeconfig.dev.json
+C:\Users\Robert Colville\Desktop\Repos\GitDemo5\GitDemo5\bin\Debug\netcoreapp3.1\GitDemo5.dll
+C:\Users\Robert Colville\Desktop\Repos\GitDemo5\GitDemo5\bin\Debug\netcoreapp3.1\GitDemo5.pdb
+C:\Users\Robert Colville\Desktop\Repos\GitDemo5\GitDemo5\obj\Debug\netcoreapp3.1\GitDemo5.csprojAssemblyReference.cache
+C:\Users\Robert Colville\Desktop\Repos\GitDemo5\GitDemo5\obj\Debug\netcoreapp3.1\GitDemo5.AssemblyInfoInputs.cache
+C:\Users\Robert Colville\Desktop\Repos\GitDemo5\GitDemo5\obj\Debug\netcoreapp3.1\GitDemo5.AssemblyInfo.cs
+C:\Users\Robert Colville\Desktop\Repos\GitDemo5\GitDemo5\obj\Debug\netcoreapp3.1\GitDemo5.csproj.CoreCompileInputs.cache
+C:\Users\Robert Colville\Desktop\Repos\GitDemo5\GitDemo5\obj\Debug\netcoreapp3.1\GitDemo5.dll
+C:\Users\Robert Colville\Desktop\Repos\GitDemo5\GitDemo5\obj\Debug\netcoreapp3.1\GitDemo5.pdb
+C:\Users\Robert Colville\Desktop\Repos\GitDemo5\GitDemo5\obj\Debug\netcoreapp3.1\GitDemo5.genruntimeconfig.cache
